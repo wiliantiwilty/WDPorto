@@ -1,0 +1,11 @@
+@charset "utf-8";
+.Menu {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: medium;
+    font-style: normal;
+    font-weight: bolder;
+    color: #FFFFFF;
+    border-bottom-style: solid;
+    border-bottom-color: #FFFFFF;
+    text-align: left;
+}
